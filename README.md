@@ -27,16 +27,4 @@ No, my greedy friend. Sometimes, you can have profitable days, but you will lose
 `What's the purpose of the Bot then?`
 The goal of the bot is to strengthen your Python programming skills, motivating you with the illusory opportunity to get rich.
 
-### Links
-[Pocket Option registration link]()
 
-[Telegram]()
-
-[YouTube]()
-
-### Donations
-If you want to thank the author for his amazing work:
-
-or
-
-send your BTC here: ``
